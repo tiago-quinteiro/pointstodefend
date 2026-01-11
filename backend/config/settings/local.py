@@ -5,9 +5,9 @@ DEBUG = True
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "tennis_db",
-        "USER": "tennis_user",
-        "PASSWORD": "strongpassword",
+        "NAME": "pointstodefend_db",
+        "USER": "tiagoquinteiro",
+        "PASSWORD": "federeristhegoat",
         "HOST": "localhost",
         "PORT": "5432",
     }
