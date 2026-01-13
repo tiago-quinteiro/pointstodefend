@@ -74,6 +74,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
+API_TENNIS_KEY = 'ee36445182630b05c7ddad4bdf6d345def590907e81f61fd2b76f60933fe50a0'
+
 
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
